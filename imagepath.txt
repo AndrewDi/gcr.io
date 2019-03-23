@@ -5,3 +5,12 @@ k8s.gcr.io/kube-proxy:v1.13.4
 k8s.gcr.io/pause:3.1
 k8s.gcr.io/etcd:3.2.24
 k8s.gcr.io/coredns:1.2.6
+gcr.io/google-containers/kubernetes-dashboard-amd64
+quay.io/coreos/flannel:v0.11.0-amd64
+ceph/ceph:v13.2
+rook/ceph:v0.9.3
+registry.access.redhat.com/rhel7:7.4
+registry.access.redhat.com/jboss-webserver-3/webserver31-tomcat8-openshift:latest
+library/redis:5.0.4-alpine
+library/nginx:1.15.9-alpine
+library/nginx:1.15.9-alpine-perl
