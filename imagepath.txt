@@ -1,3 +1,5 @@
+gcr.io/kubernetes-charts-ci/test-image:v3.4.1
+gcr.io/kubernetes-charts-ci/test-image:latest
 k8s.gcr.io/kube-apiserver:v1.13.4
 k8s.gcr.io/kube-controller-manager:v1.13.4
 k8s.gcr.io/kube-scheduler:v1.13.4
